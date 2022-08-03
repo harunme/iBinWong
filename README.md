@@ -1,23 +1,28 @@
-### Hi there 👋
-<!--
-**elliotxx/elliotxx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧱关于
+我是中国开发者，工作八年，待过几家公司，从大连到北京再到深圳，最后回到大连。
 
-Here are some ideas to get you started:
+期间也做过百人左右的研发负责人，现在又回到一线研发。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
-<ul>
-  <li>🔭 I’m currently working on Tencent</li>
-  <li>🌱 I’m currently learning go</li>
-</ul>
+### 💡思考
+中国互联网表面风声水起，内核却不大如意，大公司开始躺平，不再创新，转头做行业应用
+
+C端产品也就剩下衣食住行了，淘宝、京东、饿了吗、美团、滴滴、微信...
+
+再不创新和努力，我们就老了
+
+### 🧧未来
+
+很希望有自己的产品，自己的品牌，自己的团队
+
+从现在开始一个透明的创业计划，就叫【值得创新】，取值得拼音，主域: https://zde.today
+
+在这里发布我的产品，创业进度和思考，如果感兴趣欢迎关注我
+
+感谢所有在开源路上付出奉献的人，我也将投身如此
+
+未来我们一起为值得的事去努力
+
 
 
 ![ElliotXX's github stats](https://github-readme-stats-omega-six.vercel.app/api?username=iBinWong&show_icons=true&theme=radical)
