@@ -25,8 +25,11 @@ C端产品也就剩下衣食住行了，淘宝、京东、饿了吗、美团、�
 
 
 
-![ElliotXX's github stats](https://github-readme-stats-omega-six.vercel.app/api?username=iBinWong&show_icons=true&theme=radical)
+<img src="https://visitor-badge.laobi.icu/badge?page_id=iBinWong.iBinWong" alt="visitor badge"/> 
 
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliotxx)](https://github.com/elliotxx/github-readme-stats)
--->
+![iBinWong's github stats](https://github-readme-stats.vercel.app/api?username=iBinWong&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iBinWong&hide=html&exclude_repo=python_vim)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=iBinWong&theme=flat&column=10&margin-w=10)](https://github.com/iBinWong)
+
+
